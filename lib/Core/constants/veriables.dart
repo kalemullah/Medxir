@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart';
+late final double height;
+late final double weight;
+ double? bmi;
+ double? bsa;
+double? parkland;
+double? halfofparkland;
+ double? per_hour_for_first_eigh_thours;
+ double? per_hour_for_first_sixteen_thours;
+//int val=-1;
+double? lbm;
+String? LBM;
+String? IBW;
